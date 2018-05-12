@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34248'
     url: http://www.gutenberg.org/2009/agents/34248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29915#About-sugar-buying-for-jobbers--13-How-you-can-lessen-business-risks-by-trading-in-refined-su_
 gutenberg_issued: '2009-09-05'
 gutenberg_type: Text
 identifiers:
